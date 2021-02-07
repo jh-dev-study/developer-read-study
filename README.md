@@ -27,7 +27,7 @@
 
 <br>
 
-### 읽은 책(2021.01 ~ )
+### 📒 읽은 책(2021.01 ~ )
   - [제5판 객체지향 사고 프로세스](https://github.com/jh-dev-study/object-oriented-thinking-process)
 
   
