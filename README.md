@@ -30,7 +30,7 @@
 ### 🎉 1회차(2021.01.04 ~ 2021.02.01)
 | 구성원 | 도서명(링크)
 --- | ---
-이주현 | [객체지향 사고 프로세스 제5판](https://github.com/jh-dev-study/object-oriented-thinking-process)
+이주현 | [객체지향 사고 프로세스 제5판](https://github.com/jh-dev-study/book-study/tree/main/object-oriented-thinking-process)
 이재호 | [타입스크립트 공식문서 - Handbook](https://www.notion.so/TypeScript-efea7353a9aa4856b05e15a9b8f867af)
 이창민 | [프로젝트 관리를 알면 프로젝트가 보인다](https://www.notion.so/9c7deef7cf074b0883f567ab620c5479)
 이동호 | [클린코드](https://www.notion.so/Clean-code-eb8606885a9845ec8a54e6273e81050c)
