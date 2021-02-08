@@ -27,7 +27,16 @@
 
 <br>
 
-### 📒 읽은 책(2021.01 ~ )
-  - [제5판 객체지향 사고 프로세스](https://github.com/jh-dev-study/object-oriented-thinking-process)
+### 🎉 1회차(2021.01.04 ~ 2021.02.01)
+| 구성원 | 도서명(링크)
+:---: | :---:
+이주현 | [객체지향 사고 프로세스 제5판](https://github.com/jh-dev-study/object-oriented-thinking-process)
+이재호 | [타입스크립트 공식문서 - Handbook](https://www.notion.so/TypeScript-efea7353a9aa4856b05e15a9b8f867af)
+이창민 | [프로젝트 관리를 알면 프로젝트가 보인다]
+이동호 | [클린코드](https://www.notion.so/Clean-code-eb8606885a9845ec8a54e6273e81050c)
+안시현 | [IT 엔지니어를 위한 네트워크 입문](https://www.notion.so/IT-49d5c15dc3c34f758935c185b4fe683b)
+김기현 | [자바 ORM 표준 JPA 프로그래밍](https://www.notion.so/JPA-bb7bf6cc38994977a28adcf624fd4a5b)
+안상영 | [자바 성능 튜닝 이야기](https://github.com/ansangyoung/CS/blob/master/Books/%EC%9E%90%EB%B0%94%20%EC%84%B1%EB%8A%A5%20%ED%8A%9C%EB%8B%9D%20%EC%9D%B4%EC%95%BC%EA%B8%B0.md)
+
 
   
