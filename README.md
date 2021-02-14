@@ -44,10 +44,10 @@
 | 구성원 | 도서명(링크)
 --- | ---
 이주현 | [자바 기반의 마이크로서비스 이해와 아키텍처 구축하기](https://github.com/jh-dev-study/understanding-java-based-msa/blob/main/README.md)
-이재호 | [타입스크립트 공식문서 - Handbook](https://www.notion.so/TypeScript-efea7353a9aa4856b05e15a9b8f867af)
+이재호 | [O'REILLY Learning React](https://www.notion.so/Learning-React-fbb0e8d7b7864cdda63326586f3bbd3d)
 이창민 | [프로젝트 관리를 알면 프로젝트가 보인다](https://www.notion.so/9c7deef7cf074b0883f567ab620c5479)
 이동호 | [클린코드](https://www.notion.so/Clean-code-eb8606885a9845ec8a54e6273e81050c)
-안시현 | [IT 엔지니어를 위한 네트워크 입문](https://www.notion.so/IT-49d5c15dc3c34f758935c185b4fe683b)
-김기현 | [모던 자바 인 액션]
+~안시현~ | ~[IT 엔지니어를 위한 네트워크 입문]~
+김기현 | [모던 자바 인 액션](https://www.notion.so/bluewow/c529a2870ccc49fb90ddb839c42abfb5)
 안상영 | [오브젝트]
 
