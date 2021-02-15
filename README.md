@@ -48,6 +48,6 @@
 이창민 | [프로젝트 관리를 알면 프로젝트가 보인다](https://www.notion.so/9c7deef7cf074b0883f567ab620c5479)
 이동호 | [클린코드](https://www.notion.so/Clean-code-eb8606885a9845ec8a54e6273e81050c)
 ~안시현~ | ~[IT 엔지니어를 위한 네트워크 입문]~
-김기현 | [모던 자바 인 액션](https://www.notion.so/bluewow/c529a2870ccc49fb90ddb839c42abfb5)
+김기현 | [스프링 인 액션](https://www.notion.so/bluewow/685c29fff1ba4443bd80163409708dbc), [모던 자바 인 액션](https://www.notion.so/bluewow/c529a2870ccc49fb90ddb839c42abfb5)
 안상영 | [오브젝트]
 
