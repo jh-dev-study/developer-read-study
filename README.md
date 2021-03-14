@@ -43,7 +43,7 @@
 ### 🎉 2회차(2021.02.08 ~ 2021.03.07)
 | 구성원 | 도서명(링크)
 --- | ---
-이주현 | [자바 기반의 마이크로서비스 이해와 아키텍처 구축하기](https://github.com/jh-dev-study/understanding-java-based-msa/blob/main/README.md)
+이주현 | [자바 기반의 마이크로서비스 이해와 아키텍처 구축하기](https://github.com/jh-dev-study/book-study/tree/main/understanding-java-based-msa)
 이재호 | [O'REILLY Learning React](https://www.notion.so/Learning-React-fbb0e8d7b7864cdda63326586f3bbd3d)
 이창민 | [JSP&Servlet 웹프로그래밍 입문+활용]
 이동호 | [클린코드](https://www.notion.so/Clean-code-eb8606885a9845ec8a54e6273e81050c)
