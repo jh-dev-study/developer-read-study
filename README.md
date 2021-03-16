@@ -45,9 +45,20 @@
 --- | ---
 이주현 | [자바 기반의 마이크로서비스 이해와 아키텍처 구축하기](https://github.com/jh-dev-study/book-study/tree/main/understanding-java-based-msa)
 이재호 | [O'REILLY Learning React](https://www.notion.so/Learning-React-fbb0e8d7b7864cdda63326586f3bbd3d)
-이창민 | [JSP&Servlet 웹프로그래밍 입문+활용]
+이창민 | [JSP&Servlet 웹프로그래밍 입문+활용](https://github.com/cm-lee-1960/bookstudy)
 이동호 | [클린코드](https://www.notion.so/Clean-code-eb8606885a9845ec8a54e6273e81050c)
 ~안시현~ | ~[IT 엔지니어를 위한 네트워크 입문]~
 김기현 | [스프링 인 액션](https://www.notion.so/bluewow/685c29fff1ba4443bd80163409708dbc), [모던 자바 인 액션](https://www.notion.so/bluewow/c529a2870ccc49fb90ddb839c42abfb5)
 안상영 | [오브젝트](https://github.com/ansangyoung/CS/blob/master/Books/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8.md)
 
+<br>
+
+### 🎉 3회차(2021.03.15 ~ 2021.04.11)
+| 구성원 | 도서명(링크)
+--- | ---
+이주현 | [자바 개발자를 위한 97가지 제안]
+이재호 | [O'REILLY Learning React](https://www.notion.so/Learning-React-fbb0e8d7b7864cdda63326586f3bbd3d)
+이창민 | [테스트 주도 개발 Test-Driven Development]
+이동호 | [자바 웹을 다루는 기술]
+김기현 | [Do it! 플러터 앱 프로그래밍](https://www.notion.so/Do-it-cb3acb2eec954eb38c1a14eded06e550)
+안상영 | []
