@@ -56,9 +56,9 @@
 ### 🎉 3회차(2021.03.15 ~ 2021.04.11)
 | 구성원 | 도서명(링크)
 --- | ---
-이주현 | [자바 개발자를 위한 97가지 제안]
+이주현 | [자바 개발자를 위한 97가지 제안](https://github.com/jh-dev-study/book-study/tree/main/%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%2097%EA%B0%80%EC%A7%80%20%EC%A0%9C%EC%95%88)
 이재호 | [O'REILLY Learning React](https://www.notion.so/Learning-React-fbb0e8d7b7864cdda63326586f3bbd3d)
 이창민 | [테스트 주도 개발 Test-Driven Development]
 이동호 | [자바 웹을 다루는 기술]
 김기현 | [Do it! 플러터 앱 프로그래밍](https://www.notion.so/Do-it-cb3acb2eec954eb38c1a14eded06e550)
-안상영 | []
+안상영 | [개발자의 글쓰기]
