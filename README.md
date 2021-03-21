@@ -61,4 +61,4 @@
 이창민 | [테스트 주도 개발 Test-Driven Development]
 이동호 | [자바 웹을 다루는 기술](https://github.com/LeeDongHo/study/tree/master/JSP%26Servlet)
 김기현 | [Do it! 플러터 앱 프로그래밍](https://www.notion.so/Do-it-cb3acb2eec954eb38c1a14eded06e550)
-안상영 | [개발자의 글쓰기]
+안상영 | [개발자의 글쓰기](https://github.com/ansangyoung/CS/blob/master/Books/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%20%EA%B8%80%EC%93%B0%EA%B8%B0.md)
