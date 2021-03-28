@@ -30,7 +30,7 @@
 ### 🎉 1회차(2021.01.04 ~ 2021.02.01)
 | 구성원 | 도서명(링크)
 --- | ---
-이주현 | [객체지향 사고 프로세스 제5판](https://github.com/jh-dev-study/book-study/tree/main/object-oriented-thinking-process)
+이주현 | [객체지향 사고 프로세스 제5판](https://github.com/jh-dev-study/book-study/tree/main/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%82%AC%EA%B3%A0%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4)
 이재호 | [타입스크립트 공식문서 - Handbook](https://www.notion.so/TypeScript-efea7353a9aa4856b05e15a9b8f867af)
 이창민 | [프로젝트 관리를 알면 프로젝트가 보인다](https://www.notion.so/9c7deef7cf074b0883f567ab620c5479)
 이동호 | [클린코드](https://www.notion.so/Clean-code-eb8606885a9845ec8a54e6273e81050c)
@@ -43,7 +43,7 @@
 ### 🎉 2회차(2021.02.08 ~ 2021.03.07)
 | 구성원 | 도서명(링크)
 --- | ---
-이주현 | [자바 기반의 마이크로서비스 이해와 아키텍처 구축하기](https://github.com/jh-dev-study/book-study/tree/main/understanding-java-based-msa)
+이주현 | [자바 기반의 마이크로서비스 이해와 아키텍처 구축하기](https://github.com/jh-dev-study/book-study/tree/main/%EC%9E%90%EB%B0%94%EA%B8%B0%EB%B0%98%EC%9D%98%20%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4%20%EC%9D%B4%ED%95%B4%EC%99%80%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 이재호 | [O'REILLY Learning React](https://www.notion.so/Learning-React-fbb0e8d7b7864cdda63326586f3bbd3d)
 이창민 | [JSP&Servlet 웹프로그래밍 입문+활용](https://github.com/cm-lee-1960/bookstudy)
 이동호 | [클린코드](https://www.notion.so/Clean-code-eb8606885a9845ec8a54e6273e81050c)
