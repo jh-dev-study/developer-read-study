@@ -72,3 +72,15 @@
 이동호 | [스프링 5 마스터 2/e](https://github.com/LeeDongHo/study/tree/master/Spring/Mastering_Spring_5)
 김기현 | [스프링부트를 활용한 마이크로 서비스개발](https://www.notion.so/7266f5e1452541c09baeb7931e533d5c)
 안상영 | [객체지향의 사실과 오해](https://github.com/ansangyoung/CS/blob/master/Books/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EC%82%AC%EC%8B%A4%EA%B3%BC%20%EC%98%A4%ED%95%B4.md)
+
+<br>
+
+### 🎉 5회차(2021.05.24 ~ 2021.06.20)
+| 구성원 | 도서명(링크)
+--- | ---
+이주현 | [프로그래머의 길, 멘토에게 묻다]
+이재호 | 
+이창민 | 
+이동호 | 
+김기현 | 
+안상영 | 
