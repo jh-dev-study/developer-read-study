@@ -81,6 +81,6 @@
 이주현 | [프로그래머의 길, 멘토에게 묻다](http://www.yes24.com/Product/Goods/4045732)
 이재호 | 
 이창민 | 
-이동호 | 
+이동호 | [스프링 5 마스터 2/e](http://www.yes24.com/Product/Goods/92339993?OzSrank=6)
 김기현 | [DDD START! 도메인 주도 설계 구현과 핵심 개념 익히기](http://www.yes24.com/Product/Goods/27750871?OzSrank=1)
 안상영 | 
