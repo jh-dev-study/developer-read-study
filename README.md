@@ -4,7 +4,7 @@
   - ~~책좀 읽고싶은~~ 개발자 
   
 ### 📆 When ?
-  - 2021.01 ~ ~~언제까지 할 지 미정~~
+  - 2021.01 ~ 2021.06
   
 ### 🚀 Where ?
   - Slack, Google Docs, Zoom, Notion, GitHub ...
